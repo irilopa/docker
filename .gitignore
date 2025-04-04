@@ -1,0 +1,5 @@
+.env
+data/certs/
+data/vhost.d/
+data/html/
+data/nginx/conf.d/
